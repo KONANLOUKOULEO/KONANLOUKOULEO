@@ -27,7 +27,7 @@ I am a student at the **Polytechnic University of Bingerville**. Passionate abou
 
 | Git | Docker | Vite | Tailwind CSS |
 |-----|--------|------|--------------|
-|![Git](https://img.icons8.com/color/48/000000/git.png) | ![Docker](https://img.icons8.com/color/48/000000/docker.png) |[Vite.js](https://img.icons8.com/color/48/000000/vite.png) |![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwindcss.png) |
+|![Git](https://img.icons8.com/color/48/000000/git.png) | ![Docker](https://img.icons8.com/color/48/000000/docker.png) |![Vite.js](https://img.icons8.com/color/48/000000/vite.png) |![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwindcss.png) |
 
 ---
 
