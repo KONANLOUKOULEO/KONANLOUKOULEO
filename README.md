@@ -1,5 +1,14 @@
 ## Hi there 👋
+## Hi there 👋
+I am a student at the **Polytechnic University of Bingerville**. Passionate about new computer technologies, I'm studying to become a **MIAGIST**. I have developed several skills in programming, database design,...✨✨
 
+- 💼 **Portfolio**:My portfolio allows you to discover my background, technical skills and achievements, while giving you an overview of my approach and know-how as a developer.[See my portfolio](https://portfolio-weld-xi-55.vercel.app)
+  
+- 🖼️ **NFT static site**:This project is a static showcase site designed to present a collection of NFTs. The layout was freely inspired by a design found on Pinterest, then adapted and integrated with modern technologies such as **nextjs** and **tailwind**.[get an overview](https://site-ntfs.vercel.app)
+  
+- 🏞️**Japanese Scenery Background Slider**:a static immersive site developed with Next.js and Tailwind CSS, which lets visitors discover a series of Japanese landscapes via a slider integrated into the page background.[start the experience](https://slidesite.vercel.app)
+
+- 🧠**Memory game**:Small, immersive memory game that helps pass the time[let's play](https://memory-game-tawny-beta.vercel.app)
 <!--
 **KONANLOUKOULEO/KONANLOUKOULEO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
