@@ -1,5 +1,4 @@
-## Hi there 👋
-## Hi there 👋
+# Hi there 👋
 I am a student at the **Polytechnic University of Bingerville**. Passionate about new computer technologies, I'm studying to become a **MIAGIST**. I have developed several skills in programming, database design,...✨✨
 
 - 💼 **Portfolio**:My portfolio allows you to discover my background, technical skills and achievements, while giving you an overview of my approach and know-how as a developer.[See my portfolio](https://portfolio-weld-xi-55.vercel.app)
